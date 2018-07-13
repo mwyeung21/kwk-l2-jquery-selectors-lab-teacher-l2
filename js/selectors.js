@@ -7,13 +7,13 @@ function h1Selector(){
 
 function liInOlSelector(){
   return $('ol li');
-  //return $("ol").children()
+
 }
 
 function linkSelector(){
   return $('.box5#box4 a');
   //order doesnt matter '#box4.box5 a' also works
-  // return $("#box4.box5").children()
+
 }
 
 function imageSelector(){
